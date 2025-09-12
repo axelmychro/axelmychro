@@ -1,2 +1,2 @@
 # test
-wow i have a github now im so cool
+wow im in github now im so cool
