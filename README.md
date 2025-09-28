@@ -21,7 +21,7 @@ none yet, lol, im so slow..
 and some more i dare not list..
 #
 <p align="center">
-  <img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant_Elite_2.png" width="200">
+  <img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant_Elite_2.png" width="360">
   <br>
-  **fun fact**: Arknights is my favourite game!
+  fun fact: Arknights is my favourite game, Exusiai my fav! <3
 </p>
