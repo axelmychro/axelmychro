@@ -18,4 +18,4 @@ none yet, lol, im so slow..
 [![node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)](#)
 [![next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)](#)
 
-[![lemuel]([https://arknights.wiki.gg/images/Amiya.webm](https://imgur.com/a/cvO5dgg))(#)
+!(exia)[https://imgur.com/a/cvO5dgg]
