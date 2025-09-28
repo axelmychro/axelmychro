@@ -18,4 +18,5 @@ none yet, lol, im so slow..
 [![node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)](#)
 [![next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)](#)
 
-![exia](https://imgur.com/a/cvO5dgg)
+![Exusiai_the_New_Covenant](https://github.com/user-attachments/assets/eee184bd-91c0-4389-a417-18b27f27bc5f)
+-# fun fact: Arknights is my favourite game!
