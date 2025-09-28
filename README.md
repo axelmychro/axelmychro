@@ -2,7 +2,7 @@
 
 ### call me Axel or mychro, or both at the same,  time why not? i'm new to the world wide web. first-year computer science student. i aspire to be a full stack developer (may change over time)
 
-[portfolio or smth](https://axelmychro.github.io)
+⭐[portfolio or smth](https://axelmychro.github.io)
 
 ## projects
 
@@ -21,5 +21,5 @@ none yet, lol, im so slow..
 and some more i dare not list..
 #
 
-![Exusiai_the_New_Covenant](https://arknights.wiki.gg/images/Exusiai_the_New_Covenant_Elite_2.png)
+<img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant_Elite_2.png" width="200">
 **fun fact**: Arknights is my favourite game!
