@@ -1,6 +1,6 @@
 # welcome to my world~♪
 
-### call me Axel or mychro, or both at the same,  time why not? i'm new to the world wide web. first-year computer science student. i aspire to be a full stack developer (may change over time)
+### call me Axel or mychro, or both at the same,  time why not? i'm new to the world wide web. first-year computer science student. i aspire to be a frontend developer (may change over time)
 
 ⭐[portfolio or smth](https://axelmychro.github.io)
 
