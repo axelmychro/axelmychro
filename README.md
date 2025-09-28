@@ -10,7 +10,7 @@ none yet, lol, im so slow..
 
 ## languages/frameworks i'm learning or will learn sooner or later (in that order)
 
-[![html](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)](#)
+[![html](https://img.shields.io/badge/HTML5-23E34F26?style=for-the-badge&logo=html5)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![css](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css)](#)
 [![javascript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)](#)
