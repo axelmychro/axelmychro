@@ -10,16 +10,15 @@ none yet, lol, im so slow..
 
 ## languages/frameworks i'm learning or will learn sooner or later (in that order)
 
-[![html](https://img.shields.io/badge/HTML5-23E34F26?style=for-the-badge&logo=html5)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![css](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css)](#)
-[![javascript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
-[![react](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)](#)
-[![node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)](#)
-[![next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
-
+#
 
 ![Exusiai_the_New_Covenant](https://arknights.wiki.gg/images/Exusiai_the_New_Covenant_Elite_2.png)
 fun fact: Arknights is my favourite game!
