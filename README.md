@@ -16,8 +16,8 @@ none yet, lol, im so slow..
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)&nbsp;
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)&nbsp;
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)&nbsp;
-\and some more i dare not list..
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)&nbsp;\
+and some more i dare not list..
 #
 
 ![Exusiai_the_New_Covenant](https://arknights.wiki.gg/images/Exusiai_the_New_Covenant_Elite_2.png)
