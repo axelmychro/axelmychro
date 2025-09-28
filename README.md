@@ -20,6 +20,8 @@ none yet, lol, im so slow..
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)\
 and some more i dare not list..
 #
-
-<img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant_Elite_2.png" width="200">
-**fun fact**: Arknights is my favourite game!
+<p align="center">
+  <img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant_Elite_2.png" width="200">
+  <br>
+  **fun fact**: Arknights is my favourite game!
+</p>
