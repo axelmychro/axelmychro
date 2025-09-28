@@ -10,10 +10,12 @@ none yet, lol, im so slow..
 
 ## languages/frameworks i'm learning or will learn sooner or later (in that order)
 
-[![html](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)](#)&nbsp;
-[![css](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css)](#)&nbsp;
-[![javascript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)](#)&nbsp;
+[![html](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)](#)
+[![css](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css)](#)
+[![javascript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)](#)
 
-[![react](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)](#)&nbsp;
-[![node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)](#)&nbsp;
-[![next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)](#)&nbsp;
+[![react](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)](#)
+[![node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)](#)
+[![next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)](#)
+
+[![amiya](https://arknights.wiki.gg/images/Amiya.webm)(#)
