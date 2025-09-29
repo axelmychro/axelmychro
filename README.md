@@ -22,6 +22,10 @@ and some more i dare not list..
 
 ##
 
+[![roadmap.sh](https://roadmap.sh/card/wide/68d756cdb25744c5b5f2981e?variant=dark&roadmaps=%2Cfrontend)](https://roadmap.sh)
+
+##
+
 <p align="center">
   <img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant_Elite_2.png" width="360">
   <br>
