@@ -6,7 +6,7 @@
 
 ## projects
 
-none yet, lol, im so slow..
+nothing to be proud of yet, lol, im so slow..
 
 ## languages/frameworks i'm learning or will learn sooner or later (in that order)
 
@@ -22,7 +22,7 @@ and some more i dare not list..
 
 ##
 
-[![roadmap.sh](https://roadmap.sh/card/wide/68d756cdb25744c5b5f2981e?variant=dark&roadmaps=%2Cfrontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68d756cdb25744c5b5f2981e?variant=dark)](https://roadmap.sh)
 
 ##
 
