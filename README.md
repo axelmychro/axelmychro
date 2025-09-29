@@ -27,7 +27,7 @@ and some more i dare not list..
 ##
 
 <p align="center">
-  <img src="https://arknights.wiki.gg/index.php?curid=92740" width=480">
+  <img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant.png" width=480">
   <br>
   fun fact: Arknights is my favourite game, Exusiai my beloved <3
 </p>
