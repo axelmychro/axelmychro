@@ -1,6 +1,6 @@
 # welcome to my world~♪
 
-### first-year computer science student, new to "the internet"
+### first-year computer science student, new to the "internet"
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) <- dude how do i learn ts its so jarring
 
