@@ -1,33 +1,14 @@
 # welcome to my world~♪
 
-### call me Axel or mychro, or both at the same,  time why not? i'm new to the world wide web. first-year computer science student. i aspire to be a frontend developer (may change over time)
+### first-year computer science student, new to "the internet"
 
-⭐[portfolio or smth](https://axelmychro.github.io)
-
-## projects
-
-nothing to be proud of yet, lol, im so slow..
-
-## languages/frameworks i'm learning or will learn sooner or later (in that order)
-
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)\
-and some more i dare not list..
-
-##
-
-[![roadmap.sh](https://roadmap.sh/card/wide/68d756cdb25744c5b5f2981e?variant=dark)](https://roadmap.sh)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) <- dude how do i learn ts its so jarring
 
 ##
 
 <p align="center">
-  <img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant.png" width=480">
+  <img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant.png" width=360">
+  fun fact:
   <br>
-  fun fact: Arknights is my favourite game, Exusiai my beloved <3
+  Arknights is my favourite game, Exusiai my beloved <3
 </p>
