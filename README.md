@@ -6,4 +6,4 @@
 
 ##
 
-okay maybe im boring so here is a fun fact, Arknights is my favourite game
+okay maybe im boring, so here is a fun fact: Arknights is my favourite game
