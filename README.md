@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://arknights.wiki.gg/images/Exusiai_the_New_Covenant.png" width=360">
-  fun fact:
   <br>
-  Arknights is my favourite game, Exusiai my beloved <3
+  fun fact, Arknights is my favourite game <3
 </p>
