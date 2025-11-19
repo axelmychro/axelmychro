@@ -3,4 +3,4 @@
 
 - ..I'm currently working on **pre-pathway GDGoC USU**?
 - ..I'm an aspiring **web developer**?
-- ..I'm learning **Vue.js and Nuxt**?
+- ..I'm learning **Vue and Nuxt**?
