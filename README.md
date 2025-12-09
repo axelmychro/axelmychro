@@ -4,4 +4,4 @@
 that I am a..
 - junior **web developer**?
 - member of **GDGoC USU**?
-- **Vue and Nuxt** enthusiast?
+- **Vue/Nuxt** enthusiast?
