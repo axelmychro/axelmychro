@@ -1,4 +1,4 @@
-<img src="./wan.webp" alt="Wanderer" width="146" height="146" align="left" />
+<img src="./wan.webp" alt="Wanderer" width="128" height="128" align="left" />
 
 ```ts
 export const profile: Profile = {
