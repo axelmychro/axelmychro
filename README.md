@@ -7,5 +7,3 @@ export const profile: Profile = {
   dependencies: ['vite', 'vue', 'tailwindcss'],
 } as const
 ```
-
-<samp>https://axelmychro.my.id</samp>
